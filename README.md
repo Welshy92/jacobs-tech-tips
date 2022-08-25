@@ -65,9 +65,38 @@ This number has been everr increasing since the initial outbreak of COVID. Howev
 ***
 ***
 ## **Design**
+***
 
 ### **Colour Scheme**
 
 I have chosen a colour scheme that is close to the 'classic' Black and green contrast of old computer screens but less of a harsh contrast.
+The colour palette was created using the [coolers](https://coolors.co) website.
 
 ![My chosen colour scheme](/assets/images/colour-scheme.png)
+
+### **Typography**
+
+[Google fonts](https://fonts.google.com) was used for the following fonts:
+* Inter is used for the headings on the site. It is a sans-serif font.
+* Noto Sans is used for the body text on the site. It is a sans-serif font.
+
+### **Imagery**
+
+Logos used in the 'Useful Sites and Software' were taken from their respective websites. Credits can be found [here](#credits)
+
+
+### **wireframes**
+
+Wireframes created using Balsamiq for mobile, tablet and desktop.
+
+[Index Page Wireframe]()
+[Keyboard Shortcuts Wireframe]()
+[Maintaining Your System]()
+[Useful Sites and Software Wireframe]()
+[404 error wireframe]()
+
+### **Features**
+
+The website is made up of 5 pages. The index page, Keyboard Shortcuts, Maintaining Your System, Useful Sites and Software and 404 Error pages. All pages, with the exception of the 404 error page, are accessable from a responsive navigation menu at the top right of the page. To the left of that is the site logo, which will be placed under the navigation menu on smaller screens with a media query.
+
+The index page is divided into sections
