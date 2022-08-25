@@ -9,17 +9,17 @@ The Windows Simplified website is designed to be a responsive website allowing f
 
 ## **CONTENTS**
 ***
-User Experience (UX)
+[User Experience (UX)](#user-experience-ux)
 
-Design
+[Design](#design)
 
-Technologies Used
+[Technologies Used](#)
 
-Deployment & Local Development
+[Deployment & Local Development](#)
 
-Testing
+[Testing](#)
 
-Credits
+[Credits](#)
 
 ***
 ***
