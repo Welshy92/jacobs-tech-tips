@@ -97,6 +97,14 @@ Wireframes created using Balsamiq for mobile, tablet and desktop.
 
 ### **Features**
 
-The website is made up of 5 pages. The index page, Keyboard Shortcuts, Maintaining Your System, Useful Sites and Software and 404 Error pages. All pages, with the exception of the 404 error page, are accessable from a responsive navigation menu at the top right of the page. To the left of that is the site logo, which will be placed under the navigation menu on smaller screens with a media query.
+The website is made up of 5 pages. The index page, Keyboard Shortcuts, Maintaining Your System, Useful Sites and Software and 404 Error pages. All pages, with the exception of the 404 error page, are accessable from a responsive navigation menu at the top right of the page. To the left of that is the site logo, which will be placed under the navigation menu on smaller screens with a media query. All pages will also contain a footer that displays copyright details, contact information, a link to the sites youtube channel and a 'back to top' link.
 
-The index page is divided into sections
+The index page is divided into sections. Below the Navigation is a large Hero image taking up the width of the screen. Below that is an introduction to what the site and it's purpose is. Below that is a form that offers a signup to a newsletter.
+
+The Keyboard Shortcuts page contains lists of shortcuts that are divided into different sections, word processing, system navigation and miscellaneous. Each shortcut will show and image of the keys with an explaination of what is achieved by using them, using a GIF to help showcase that if necessary.
+
+The Maintaining your system page if split into a few categories. Keeping your machine fast, decluttering your machine and backing up files. Each section will be split up intoi sub-categories that will walk a user through, step by step, some basic maintainence tasks for their machine.
+
+The Useful Sites and Software page contains a list of websites and software that could potentially aid a user in simplifying some tasks or allowing their system to run better, as well as some common popular pieces that has a variety of sources of information that they can use to help them further. 
+
+The 404 error page will pop up if there is a broken link clicked within the site. It will simply contain a 404 error message and a link back to the homepage.
