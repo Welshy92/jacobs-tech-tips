@@ -64,3 +64,10 @@ This number has been everr increasing since the initial outbreak of COVID. Howev
 
 ***
 ***
+## **Design**
+
+### **Colour Scheme**
+
+I have chosen a colour scheme that is close to the 'classic' Black and green contrast of old computer screens but less of a harsh contrast.
+
+![My chosen colour scheme](/assets/images/colour-scheme.png)
