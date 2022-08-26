@@ -109,6 +109,8 @@ The Useful Sites and Software page contains a list of websites and software that
 
 The 404 error page will pop up if there is a broken link clicked within the site. It will simply contain a 404 error message and a link back to the homepage.
 
+### **Future Implementations**
+
 ### **Accessibility**
 
 While coding this site I have been mindful to ensure that the website is accessible friendly. I have achieved this by:
@@ -135,3 +137,33 @@ HTML, CSS
 * Opera Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
 * [Am I Responsive?](https://ui.dev/amiresponsive) - To show the website image on a variety of devices.
 ***
+***
+## **Deployment & Local Development**
+***
+
+### **Deployment**
+The site is deployed using GitHub Pages. Visit the deployed site [here.](https://welshy92.github.io/windows-simplified/)
+
+To do this I:
+1. Logged into my Github.
+2. Went to the repository for this project, [windows-simplified](https://github.com/Welshy92/windows-simplified).
+3. Clicked on the Settings tab.
+4. Clicked on Pages under the Code and Automation section.
+5. Set the branch to main and clicked save.
+6. Waited a few minutes and then refreshed the page for my deployed site link.
+
+### **Local Development**
+
+#### How to Fork the repository
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, [windows-simplified](https://github.com/Welshy92/windows-simplified).
+3. Click the Fork button in the top right corner.
+
+#### How to Clone the repository
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, [windows-simplified](https://github.com/Welshy92/windows-simplified).
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
