@@ -167,3 +167,18 @@ To do this I:
 3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+***
+***
+## **Credits**
+***
+This website is a solo project created by [myself.](https://github.com/Welshy92)
+
+### **Code Used**
+
+### **Content**
+
+### **Media**
+
+### **Acknowledgments**
+
+[Kera Cudmore](https://github.com/kera-cudmore) - Provided a [README](https://github.com/kera-cudmore/readme-examples) example that I read through to make sure I had all required content.
