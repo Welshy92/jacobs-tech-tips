@@ -178,6 +178,7 @@ This website is a solo project created by [myself.](https://github.com/Welshy92)
 ### **Content**
 
 ### **Media**
+* Hero image by [Sathesh D](https://www.pexels.com/@sathez994/) on Pexels image site, used on index and 404 page.
 
 ### **Acknowledgments**
 
