@@ -13,7 +13,7 @@ The Windows Simplified website is designed to be a responsive website allowing f
 
 [Design](#design)
 
-[Technologies Used](#)
+[Technologies Used](#technologies-used)
 
 [Deployment & Local Development](#)
 
@@ -108,3 +108,30 @@ The Maintaining your system page if split into a few categories. Keeping your ma
 The Useful Sites and Software page contains a list of websites and software that could potentially aid a user in simplifying some tasks or allowing their system to run better, as well as some common popular pieces that has a variety of sources of information that they can use to help them further. 
 
 The 404 error page will pop up if there is a broken link clicked within the site. It will simply contain a 404 error message and a link back to the homepage.
+
+### **Accessibility**
+
+While coding this site I have been mindful to ensure that the website is accessible friendly. I have achieved this by:
+  * Using semantic HTML
+  * Using descriptive alt attributes on images all around the site.
+  * Making sure that there is sufficient colour contrast throughout the entire site.
+***
+***
+## **Technologies Used**
+***
+
+### **Languages used**
+HTML, CSS
+
+### **Frameworks, Libraries & Programs Used**
+
+* Balsamiq - Used to create wireframes.
+* Git - For version control.
+* Github - To save and store all the files of the site.
+* Gitpod - To write all the HTML & CSS. Also used to write the README.
+* [coolers](https://coolors.co) - To create a colour scheme for use across the site.
+* Google Fonts - To import the fonts used on the site.
+* [Font Awesome](https://fontawesome.com) - For the iconography of the site.
+* Opera Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+* [Am I Responsive?](https://ui.dev/amiresponsive) - To show the website image on a variety of devices.
+***
