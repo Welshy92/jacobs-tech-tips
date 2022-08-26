@@ -169,6 +169,32 @@ To do this I:
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 ***
 ***
+## **Testing**
+***
+### **Automated Testing**
+The HTML of every page was validated by [W3C Validator](https://validator.w3.org)
+* [index]()
+* [keyboard shortcuts]()
+* [maintaining your system]()
+* [useful sites and software]()
+* [404 error]()
+
+The CSS of every page was validated by [W3C Validator](https://jigsaw.w3.org/css-validator/)
+* [index]()
+* [keyboard shortcuts]()
+* [maintaining your system]()
+* [useful sites and software]()
+* [404 error]()
+
+Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was used to test the performance, acessibility, best practices and SEO of the website.
+* [index]()
+* [keyboard shortcuts]()
+* [maintaining your system]()
+* [useful sites and software]()
+* [404 error]()
+
+***
+***
 ## **Credits**
 ***
 This website is a solo project created by [myself.](https://github.com/Welshy92)
