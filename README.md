@@ -4,7 +4,7 @@ The Windows Simplified website is designed to be a responsive website allowing f
 
 ![Image from amiresponsive]()
 
-[Windows Simplified on Github Pages]{}
+[Windows Simplified live on GitHub Pages](https://welshy92.github.io/windows-simplified/)
 
 
 ## **CONTENTS**
