@@ -12,3 +12,12 @@ body {
     font-weight: 300;
     color: #9BC53D;
 }
+
+/* Headings and Logo */
+
+h1, h2 {
+    font-family: 'Inter', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #80DED9;
+}
