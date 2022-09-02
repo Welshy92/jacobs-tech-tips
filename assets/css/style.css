@@ -13,9 +13,86 @@ body {
     color: #9BC53D;
 }
 
+a {
+    text-decoration: none;
+    color: #04742D;
+}
+
+/* Nav Menu & Hamburger */
+
+.nav {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    overflow: hidden;
+}
+
+.menu a {
+    display: block;
+    padding: 30px;
+}
+
+.menu a:hover {
+    background-color: var(--white);
+}
+
+.nav {
+    max-height: 0;
+    transition: max-height .5s ease-out;
+}
+
+.hamburger {
+    cursor: pointer;
+    float: right;
+    padding: 40px 20px;
+}
+
+.hamburger-line {
+    background: var(--white);
+    display: block;
+    height: 2px;
+    position: relative;
+    width: 24px;
+}
+
+.hamburger-line::before,
+.hamburger-line::after {
+    background: white;
+    content: '-';
+    display: block;
+    height: 100%;
+    position: absolute;
+    transition: all .2s ease-out;
+    width: 100%;
+}
+
+.hamburger-line::before {
+    top: 5px;
+}
+
+.hamburger-line::after {
+    top: -5px;
+}
+
+.side-menu {
+    display: none;
+}
+
 /* Headings and Logo */
 
-h1, h2 {
+header {
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+
+#logo {
+    display: inline-block;
+    font-size: 200%;
+    margin-left: 10px;
+}
+
+h2 {
     font-family: 'Inter', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
