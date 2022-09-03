@@ -1,40 +1,33 @@
 body {
     margin: 0;
+    padding: 0;
     background-color: #211A1E;
+    text-decoration: none;
 }
 
 /* Main Header */
 
+.top-bar {
+  display: inline-flex;
+  line-height: 30px;
+  align-content: stretch;
+}
+
 .header {
-
+  text-transform: uppercase;
 }
 
-/* Responsive Naviagtion Menu */
-ul.menu {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-}
-
-ul.menu li {float: left;}
-
-ul.menu li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
+.header a {
+  color: #80DED9;
   text-decoration: none;
 }
 
-ul.menu li a:hover:not(.active) {background-color: #111;}
+.menu {
+  flex-direction: row;
+}
 
-ul.menu li a.active {background-color: #04AA6D;}
-
-ul.menu li.right {float: right;}
-
-@media screen and (max-width: 600px) {
-  ul.menu li.right, 
-  ul.menu li {float: none;}
+#hero-image {
+  height: 300px;
+  width: 100%;
+  background: url(../images/hero-image.jpg) no-repeat center center;
 }
