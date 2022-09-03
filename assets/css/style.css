@@ -23,7 +23,17 @@ body {
 }
 
 .menu {
+  justify-content: flex-end;
   flex-direction: row;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #9BC53D;
+}
+
+.menu > li {
+  list-style: none;
 }
 
 #hero-image {
