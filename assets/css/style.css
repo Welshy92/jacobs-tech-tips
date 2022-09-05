@@ -1,39 +1,24 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Noto+Sans:wght@300&display=swap');
+
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     background-color: #211A1E;
-    text-decoration: none;
 }
 
+body {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+}
 /* Main Header */
 
-.top-bar {
-  display: inline-flex;
-  line-height: 30px;
-  align-content: stretch;
+nav {
+  padding: 0 15px;
 }
 
-.header {
-  text-transform: uppercase;
-}
-
-.header a {
-  color: #80DED9;
+a {
   text-decoration: none;
-}
-
-.menu {
-  justify-content: flex-end;
-  flex-direction: row;
-}
-
-.menu a {
-  text-decoration: none;
-  color: #9BC53D;
-}
-
-.menu > li {
-  list-style: none;
 }
 
 #hero-image {
