@@ -17,6 +17,11 @@ h2 {
   color: #80DED9;
 }
 
+p {
+  margin-left: 1px;
+  margin-right: 1px;
+}
+
 /* Nav styling */
 
 nav {
@@ -46,7 +51,7 @@ a {
   color: #9BC53D;
 }
 
-/* Mobile Nav */
+/* Mobile first Nav */
 
 .menu {
   display: inline-flex;
@@ -92,13 +97,44 @@ a {
   }
 }
 
-/* Index hero image */
+/* Index specific styling */
 
 #hero-image {
   padding: 0;
   height: 300px;
   width: 100%;
   background: url(../images/hero-image.jpg) no-repeat center center;
+}
+
+#home-intro li {
+  margin-left: 23px;
+  margin-right: 10px;
+}
+
+#signup-image {
+  background-image: url(../images/light-bulb.png);
+  height: 150px;
+  width: 150px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 0;
+  visibility: hidden;
+  position: relative;
+  top: -25px;
+}
+
+@media screen and (min-width: 900px) {
+  #signup-image {
+    visibility: visible;
+  }
+
+  #newsletter {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: stretch;
+  }
+
 }
 
 /* Footer */
@@ -122,6 +158,12 @@ footer {
 }
 
 @media screen and (min-width: 900px) {
+  
+  body {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  
   footer {
     line-height: 100px;
   }
