@@ -5,21 +5,27 @@
     padding: 0;
     box-sizing: border-box;
     background-color: #211A1E;
+    color: #04724D;
 }
 
 body {
   font-family: 'Noto Sans', sans-serif;
   font-size: 16px;
 }
+
+h2 {
+  color: #80DED9;
+}
+
 /* Nav styling */
 
 nav {
-  padding: 0 15px;
+  padding: 0 5px;
 }
 
 a {
   text-decoration: none;
-  color: white;
+  color: #80DED9;
 }
 
 .menu {
@@ -37,7 +43,7 @@ a {
 }
 
 .item a:hover {
-  color: greenyellow;
+  color: #9BC53D;
 }
 
 /* Mobile Nav */
@@ -89,7 +95,14 @@ a {
 /* Index hero image */
 
 #hero-image {
+  padding: 0;
   height: 300px;
   width: 100%;
   background: url(../images/hero-image.jpg) no-repeat center center;
+}
+
+/* Footer */
+
+footer {
+  color: #80DED9;
 }
