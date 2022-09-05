@@ -11,7 +11,7 @@ body {
   font-family: 'Noto Sans', sans-serif;
   font-size: 16px;
 }
-/* Main Header */
+/* Nav styling */
 
 nav {
   padding: 0 15px;
@@ -39,6 +39,22 @@ a {
 .item a:hover {
   color: greenyellow;
 }
+
+/* Mobile Nav */
+
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu li a {
+  display: block;
+  padding: 15px 5px;
+}
+
+.toggle
 
 #hero-image {
   height: 300px;
