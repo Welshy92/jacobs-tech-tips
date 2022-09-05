@@ -68,7 +68,25 @@ a {
   display: block;
 }
 
+/* Desktop Nav */
 
+@media screen and (min-width: 900px) {
+  .menu {
+    text-align: center;
+    width: 100%;
+  }
+
+  .item {
+  display: inline;
+  width: 19%;
+  }
+
+  .logo {
+  width: 19%;
+  }
+}
+
+/* Index hero image */
 
 #hero-image {
   height: 300px;
