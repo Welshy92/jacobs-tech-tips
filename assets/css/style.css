@@ -19,6 +19,17 @@ nav {
 
 a {
   text-decoration: none;
+  color: white;
+}
+
+.menu {
+  list-style-type: none;
+}
+
+.logo {
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  padding: 7.5px 10px 7.5px 0 ;
 }
 
 #hero-image {
