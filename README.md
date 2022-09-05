@@ -216,6 +216,7 @@ This website is a solo project created by [myself.](https://github.com/Welshy92)
 
 ### **Media**
 * Hero image by [Sathesh D](https://www.pexels.com/@sathez994/) on Pexels image site, used on index and 404 page.
+* Favicon image modified by myself. Original image by raphaelsilva on [Pixabay](https://pixabay.com/users/raphaelsilva-4702998/)
 
 ### **Acknowledgments**
 
