@@ -212,7 +212,7 @@ This website is a solo project created by [myself.](https://github.com/Welshy92)
 ### **Code Used**
 
 ### **Content**
-* [Font awesome](https://fontawesome.com) icons used for hamburger icon and footer icons.
+* [Font awesome](https://fontawesome.com) icons used for footer icons.
 
 ### **Media**
 * Hero image by [Sathesh D](https://www.pexels.com/@sathez994/) on Pexels image site, used on index and 404 page.
