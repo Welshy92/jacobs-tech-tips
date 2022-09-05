@@ -43,9 +43,6 @@ a {
   padding: 5px 10px 5px 10px ;
 }
 
-.item {
-  padding: 10px;
-}
 
 .item a:hover {
   color: #9BC53D;
@@ -60,6 +57,7 @@ a {
   align-items: center;
 }
 
+
 .menu li a {
   display: block;
   padding: 1px 1px;
@@ -68,6 +66,7 @@ a {
 .item {
   width: 100%;
   text-align: center;
+  padding: 10px;
 }
 
 .logo {
@@ -75,8 +74,9 @@ a {
   text-align: center;
 }
 
-.active .item {
+.menu .active {
   display: block;
+  background-color: black;
 }
 
 /* Desktop Nav */
@@ -104,6 +104,7 @@ a {
   height: 300px;
   width: 100%;
   background: url(../images/hero-image.jpg) no-repeat center center;
+  background-size: cover;
 }
 
 #home-intro li {
@@ -113,8 +114,8 @@ a {
 
 #signup-image {
   background-image: url(../images/light-bulb.png);
-  height: 150px;
-  width: 150px;
+  height: 0px;
+  width: 0px;
   background-repeat: no-repeat;
   background-size: contain;
   margin: 0;
@@ -123,9 +124,24 @@ a {
   top: -25px;
 }
 
+#newsletter form {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+#newsletter hr {
+  visibility: hidden;
+}
+
 @media screen and (min-width: 900px) {
   #signup-image {
     visibility: visible;
+    height: 150px;
+    width: 150px;
   }
 
   #newsletter {
@@ -135,12 +151,18 @@ a {
     align-items: stretch;
   }
 
+  #newsletter form {
+    display: inline-flex;
+    flex-direction: row;
+  }
+
 }
 
 /* Footer */
 
 footer {
   line-height: 25px;
+  margin-top: 30px;
 }
 
 .footer li {
@@ -165,7 +187,8 @@ footer {
   }
   
   footer {
-    line-height: 100px;
+    line-height: 50px;
+    margin-top: 25px;
   }
 
   .footer > ul {
