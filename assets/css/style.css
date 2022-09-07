@@ -158,6 +158,16 @@ a {
 
 }
 
+/* Keyboard Shortcuts Specific Styling */
+
+#shortcut-perform {
+  max-width: 320px;
+}
+
+#shortcut-keys {
+ max-width: 320px;
+}
+
 /* Footer */
 
 footer {
