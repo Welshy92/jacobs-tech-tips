@@ -9,17 +9,17 @@ The Windows Simplified website is designed to be a responsive website allowing f
 
 ## **CONTENTS**
 ***
-[User Experience (UX)](#user-experience-ux)
+* [User Experience (UX)](#user-experience-ux)
 
-[Design](#design)
+* [Design](#design)
 
-[Technologies Used](#technologies-used)
+* [Technologies Used](#technologies-used)
 
-[Deployment & Local Development](#)
+* [Deployment & Local Development](#deployment)
 
-[Testing](#)
+* [Testing](#testing)
 
-[Credits](#)
+* [Credits](#credits)
 
 ***
 ***
@@ -181,29 +181,7 @@ To do this I:
 ***
 ## **Testing**
 ***
-### **Automated Testing**
-The HTML of every page was validated by [W3C Validator](https://validator.w3.org)
-* [index]()
-* [keyboard shortcuts]()
-* [maintaining your system]()
-* [useful sites and software]()
-* [404 error]()
-
-The CSS of every page was validated by [W3C Validator](https://jigsaw.w3.org/css-validator/)
-* [index]()
-* [keyboard shortcuts]()
-* [maintaining your system]()
-* [useful sites and software]()
-* [404 error]()
-
-Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was used to test the performance, acessibility, best practices and SEO of the website.
-* [index]()
-* [keyboard shortcuts]()
-* [maintaining your system]()
-* [useful sites and software]()
-* [404 error]()
-
-***
+Click [here]() to view details on testing and bugs
 ***
 ## **Credits**
 ***
