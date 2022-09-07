@@ -212,7 +212,8 @@ This website is a solo project created by [myself.](https://github.com/Welshy92)
 ### **Code Used**
 
 ### **Content**
-* [Font awesome](https://fontawesome.com) icons used for footer icons.
+* [Font Awesome](https://fontawesome.com) - Icons used for footer icons.
+* [Code Institute](https://codeinstitute.net) - Form dump link used to show working form on index. 
 
 ### **Media**
 * Hero image by [Sathesh D](https://www.pexels.com/@sathez994/) on Pexels image site, used on index and 404 page.
