@@ -68,3 +68,5 @@ Nav bar becomes off-centered between mobile and desktop widths. Maybe and anothe
 Form on index incorrectly centered in desktop view
 
 No gap between the heading and paragraph text
+
+Trying to commit a large video to the repository failed, and crashed my workspace.
