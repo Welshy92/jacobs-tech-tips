@@ -66,3 +66,5 @@ Caused by the hidden lightbulb image. Changed the image size to 0 and added an u
 Nav bar becomes off-centered between mobile and desktop widths. Maybe and another breakpoint in the middle (tablet size?)
 
 Form on index incorrectly centered in desktop view
+
+No gap between the heading and paragraph text

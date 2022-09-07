@@ -200,3 +200,5 @@ This website is a solo project created by [myself.](https://github.com/Welshy92)
 ### **Acknowledgments**
 
 [Kera Cudmore](https://github.com/kera-cudmore) - Provided a [README](https://github.com/kera-cudmore/readme-examples) example that I read through to make sure I had all required content.
+
+[Microsoft Support Site](https://support.microsoft.com) - Used to verify that keyboard shortcuts are used on multiple Windows operating systems.
