@@ -72,3 +72,5 @@ Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was us
 
 * No gap between the heading and paragraph text
 
+* All images with the picture class tag fail to load on github pages (404 error for each image). Works fine in preview.
+
