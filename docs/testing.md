@@ -63,6 +63,7 @@ Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was us
 
 * Incorrect active page showing on the nav bar for all pages except index.htm. Moved the active class to correct nav list item for each page.
 
+* Some external links on the links.html page not opening in a new tab. Added target="_blank" to the relevent ancor tags.
 ### **Known Bugs**
 
 * Nav bar becomes off-centered between mobile and desktop widths. Maybe and another breakpoint in the middle (tablet size?)
