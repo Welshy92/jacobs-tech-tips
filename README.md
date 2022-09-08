@@ -82,8 +82,8 @@ The colour palette was created using the [coolers](https://coolors.co) website.
 
 ### **Imagery**
 
-Logos used in the 'Useful Sites and Software' were taken from their respective websites. Credits can be found [here](#credits)
-Hero images for index.html and 404.html, as well as the site wide favicon were taking from [Pixabay](https://pixabay.com). All images modified by myself. The [license](https://pixabay.com/service/license/) does allow modifications.
+* Logos used in the 'Useful Sites and Software' were taken from their respective websites. Credits can be found [here](#credits)
+* Hero images for index.html and 404.html, as well as the site wide favicon were taking from [Pixabay](https://pixabay.com). All images modified by myself. The [license](https://pixabay.com/service/license/) does allow modifications.
 
 
 ### **wireframes**
@@ -198,7 +198,14 @@ This website is a solo project created by [myself.](https://github.com/Welshy92)
 * Hero image by [Sathesh D](https://www.pexels.com/@sathez994/) on Pexels image site, used on index. Size modified by myself.
 * Favicon image modified by myself. Original image by raphaelsilva on [Pixabay](https://pixabay.com/users/raphaelsilva-4702998/)
 * 404 image modified by myself. Original image by turgut_arslan0 on [Pixabay](https://pixabay.com/users/turgut_arslan0-660197/)
-
+* Icons for links.html were taken from the respective companies websites favicons.
+* * [Opera GX](https://www.opera.com/gx) - by Opera Limited
+* * [WinRar](https://www.win-rar.com/) - by Eugene Roshal
+* * [Team Viewer](https://www.teamviewer.com) - by 	TeamViewer AG
+* * [Advanced System Care](https://www.iobit.com/en/advancedsystemcarefree.php) - by IOBit. *Icon taken from software installation directory*
+* * [OneDrive](https://onedrive.live.com/) - by Microsoft
+* * [Dropbox](https://www.dropbox.com) - by Dropbox
+* * [Gmail](https://mail.google.com) - By Google
 ### **Acknowledgments**
 
 [Kera Cudmore](https://github.com/kera-cudmore) - Provided a [README](https://github.com/kera-cudmore/readme-examples) example that I read through to make sure I had all required content.
