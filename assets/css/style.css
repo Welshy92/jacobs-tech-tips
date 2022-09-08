@@ -120,7 +120,7 @@ a {
   }
 }
 
-/* Index specific styling */
+/* index.html specific styling */
 
 #hero-image {
   padding: 0;
@@ -176,7 +176,7 @@ a {
 
 }
 
-/* Keyboard Shortcuts Specific Styling */
+/* shortcuts.html Specific Styling */
 
 #shortcut-perform {
   width: 100%;
@@ -196,6 +196,12 @@ a {
 
 #security-image {
   width: 100%;
+}
+
+/* links.html Specific Styling */
+
+.icon {
+  max-width: 16px;
 }
 
 /* Footer */
