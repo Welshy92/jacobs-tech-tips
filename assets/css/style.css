@@ -13,13 +13,28 @@ body {
   font-size: 16px;
 }
 
-h2 {
+h2, h3 {
   color: #80DED9;
+}
+
+li {
+  margin-left: 23px;
+  margin-right: 10px;
 }
 
 p {
   margin-left: 1px;
   margin-right: 1px;
+  text-align: justify;
+}
+
+em {
+  font-weight: bold;
+}
+
+.caption {
+  font-size: 14px;
+  font-weight: lighter;
 }
 
 /* Nav styling */
@@ -57,6 +72,10 @@ a {
   align-items: center;
 }
 
+.menu li {
+  margin-left: 0px;
+  margin-right: 0px;
+}
 
 .menu li a {
   display: block;
@@ -105,11 +124,6 @@ a {
   width: 100%;
   background: url(../images/hero-image.jpg) no-repeat center center;
   background-size: cover;
-}
-
-#home-intro li {
-  margin-left: 23px;
-  margin-right: 10px;
 }
 
 #signup-image {
