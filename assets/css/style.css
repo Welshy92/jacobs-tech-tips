@@ -238,3 +238,19 @@ footer {
     flex-wrap: wrap;
   }
 }
+
+/* 404 Error Page */
+
+#error-image {
+  padding: 0;
+  height: 200px;
+  width: 100%;
+  background: url(../images/error.png) no-repeat center center;
+  background-size: contain;
+}
+
+@media screen and (min-width: 900px) {
+  #error-image {
+    height: 700px;
+  }
+}
