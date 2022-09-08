@@ -32,6 +32,10 @@ em {
   font-weight: bold;
 }
 
+a > em {
+  color: #9BC53D;
+}
+
 .caption {
   font-size: 14px;
   font-weight: lighter;
