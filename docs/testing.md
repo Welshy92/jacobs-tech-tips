@@ -55,19 +55,19 @@ Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was us
 
 ### **Solved Bugs**
 
-405 - POST error occured when submitting forum.
-Caused by having multiple actions in the Form tag. Removed redundant tag and it is now working correctly.
+* 405 - POST error occured when submitting forum. Caused by having multiple actions in the Form tag. Removed redundant tag and it is now working correctly.
 
-Large amount of whitespace below the form on the mobile view.
-Caused by the hidden lightbulb image. Changed the image size to 0 and added an upscale to the media query for it.
+* Large amount of whitespace below the form on the mobile view. Caused by the hidden lightbulb image. Changed the image size to 0 and added an upscale to the media query for it.
 
-Trying to commit a large video to the repository failed, and crashed my workspace. Video has been uploaded to youtube and is now embedded on the site.
+* Trying to commit a large video to the repository failed, and crashed my workspace. Video has been uploaded to youtube and is now embedded on the site.
+
+* Incorrect active page showing on the nav bar for all pages except index.htm. Moved the active class to correct nav list item for each page.
 
 ### **Known Bugs**
 
-Nav bar becomes off-centered between mobile and desktop widths. Maybe and another breakpoint in the middle (tablet size?)
+* Nav bar becomes off-centered between mobile and desktop widths. Maybe and another breakpoint in the middle (tablet size?)
 
-Form on index incorrectly centered in desktop view
+* Form on index incorrectly centered in desktop view
 
-No gap between the heading and paragraph text
+* No gap between the heading and paragraph text
 
