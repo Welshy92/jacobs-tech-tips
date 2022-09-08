@@ -41,6 +41,11 @@ a > em {
   font-weight: lighter;
 }
 
+.picture {
+  width: 100%;
+  padding-top: 10px;
+}
+
 /* Nav styling */
 
 nav {
