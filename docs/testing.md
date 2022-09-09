@@ -71,6 +71,8 @@ Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was us
 
 * All images with the picture class tag fail to load on github pages (404 error for each image). Works fine in preview. Fixed by changing all file paths to relative.
 
+* Some links incorrectly used an absolute filepath with isn't allowed with Github. Changed to relative filepath.
+
 ### **Known Bugs**
 
 * Nav bar becomes off-centered between mobile and desktop widths. Maybe and another breakpoint in the middle (tablet size?)
