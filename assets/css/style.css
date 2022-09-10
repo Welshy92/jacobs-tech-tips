@@ -11,10 +11,13 @@ body {
   font-size: 16px;
   font-weight: 600;
   padding-top: 45px;
+  padding-bottom: 45px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 h2, h3 {
-  color: #80DED9;
+  color: #04724D;
 }
 
 li {
@@ -55,7 +58,7 @@ nav {
   border-right: 0;
   border-style: solid;
   background-color: #211A1E;
-  position:fixed;
+  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
@@ -120,6 +123,10 @@ a {
 /* Desktop Nav */
 
 @media screen and (min-width: 900px) {
+  nav {
+    position:fixed;
+  }
+
   .menu {
     text-align: center;
     width: 100%;
