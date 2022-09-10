@@ -195,7 +195,7 @@ This website is a solo project created by [myself.](https://github.com/Welshy92)
 * [Code Institute](https://codeinstitute.net) - Form dump link used to show working form on index. 
 
 ### **Media**
-* Hero image by [Sathesh D](https://www.pexels.com/@sathez994/) on Pexels image site, used on index. Size modified by myself.
+* Hero image by [Sathesh D](https://www.pexels.com/@sathez994/) on Pexels image site, used on index.
 * Favicon image modified by myself. Original image by raphaelsilva on [Pixabay](https://pixabay.com/users/raphaelsilva-4702998/)
 * 404 image modified by myself. Original image by turgut_arslan0 on [Pixabay](https://pixabay.com/users/turgut_arslan0-660197/)
 * Icons for links.html were taken from the respective companies websites favicons.
