@@ -188,10 +188,15 @@ Click [here]() to view details on testing and bugs
 ***
 This website is a solo project created by [myself.](https://github.com/Welshy92)
 
-### **Code Used**
+### **Learning Resources**
+
+There are a few different sites that I used to learn the required skills to develop this website. I also refer back to these when I'm unsure of certain tags.
+* [Code Institute](http://codeinstitute.net) - Full Stack Developer course material used to learn essentials of HTML and CSS.
+* [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Used to learn about flexbox and how to apply it to my own development.
+* [W3Schools](https://www.w3schools.com) - Used to learn how to make the hamburger mobile navigation. Also used to quickly look up various tags to veryify I am applying them correctly.
 
 ### **Content**
-* [Font Awesome](https://fontawesome.com) - Icons used for footer icons.
+* [Font Awesome](https://fontawesome.com) - Icons used for footer icons + hamburger navigation icon.
 * [Code Institute](https://codeinstitute.net) - Form dump link used to show working form on index. 
 
 ### **Media**
