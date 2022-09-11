@@ -246,6 +246,20 @@ a {
   }
 }
 
+/* Padding For Newsletter Signup */
+
+.content > div > p {
+  text-align: justify;
+  padding-left: 7.5vw;
+  padding-right: 7.5vw;
+}
+
+.content > div > form {
+  text-align: justify;
+  padding-left: 7.5vw;
+  padding-right: 7.5vw;
+}
+
 /* Image styling */
 
 .picture {
