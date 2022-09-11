@@ -261,6 +261,26 @@ a {
   text-align: center;
 }
 
+/* Responsive Images */
+
+.desktop-image{
+  display:block;
+ }
+
+.mobile-image{
+ display:none;
+}
+
+@media (max-width: 1000px) and (min-width: 320px){
+ .desktop-image{
+  display:none;
+ }
+
+ .mobile-image{
+  display:block;
+ }
+}
+
 /* Video Player Styling (Maintaining the 16:9 aspect ration responsively) */
 
 .video {
