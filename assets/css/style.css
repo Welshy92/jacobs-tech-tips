@@ -48,6 +48,7 @@ a > em {
   max-height: 400px;
   width: 100%;
   object-fit: cover;
+  border: 1px solid black;
 }
 
 /* Header */
