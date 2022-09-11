@@ -75,6 +75,4 @@ Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was us
 
 ### **Known Bugs**
 
-* Nav bar becomes off-centered between mobile and desktop widths. Maybe and another breakpoint in the middle (tablet size?)
-
-* Form on index incorrectly centered in desktop view
+* Hamburger menu not working on maintenance.html.
