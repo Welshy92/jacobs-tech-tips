@@ -261,6 +261,7 @@ a {
   overflow: hidden;
   width: 100%;
   padding-top: 56.25%; /* 16:9 Aspect Ratio (9 by 16 = 0.5625) */
+  border: 1px solid black;
 }
 
 .video-frame {
