@@ -239,6 +239,20 @@ a {
   transition: color 0.4s ease;
 }
 
+/* Page content Positioning */
+
+.content {
+  padding-left: 7.5vw;
+  padding-right: 7.5vw;
+}
+
+@media screen and (min-width: 900px) {
+  .content {
+    padding-left: 15vw;
+    padding-right: 15vw;
+  }
+}
+
 /* index.html specific styling */
 
 #hero-image {
