@@ -73,6 +73,8 @@ Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was us
 
 * Some links incorrectly used an absolute filepath with isn't allowed with Github. Changed to relative filepath.
 
+* hero image not streching to edges of the viewport. Caused by some body padding and margins. Both now removed.
+
 ### **Known Bugs**
 
 * Hamburger menu not working on maintenance.html.
