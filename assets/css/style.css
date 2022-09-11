@@ -43,7 +43,7 @@ a > em {
 }
 
 .picture {
-  max-height: 400px;
+  max-height: 0px;
   object-fit: cover;
 }
 
@@ -60,23 +60,6 @@ header {
   width: 100vw;
 }
 
-/* Nav styling */
-
-nav {
-  padding: 0 5px;
-  border-color: white;
-  border-bottom: 1px;
-  border-top: 0;
-  border-left: 0;
-  border-right: 0;
-  border-style: solid;
-  background-color: #211A1E;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-}
-
 a {
   text-decoration: none;
   color: #80DED9;
@@ -87,11 +70,6 @@ a {
   color: #80DED9;
 }
 
-.logo {
-  font-family: 'Inter', sans-serif;
-  font-size: 20px;
-  padding: 5px 10px 5px 10px ;
-}
 
 /* Menu Styling */
 .menu-wrap {
