@@ -16,6 +16,7 @@ body {
 
 h2, h3 {
   color: #04724D;
+  font-family: 'Inter', sans-serif;
 }
 
 li {
@@ -58,6 +59,7 @@ header {
   font-size: 0.85rem;
   background: #211A1E;
   width: 100vw;
+  font-family: 'Inter', sans-serif;
 }
 
 a {
