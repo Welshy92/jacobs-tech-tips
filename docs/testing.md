@@ -82,3 +82,5 @@ Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was us
 *h2 text too spread out on mobile views of maintenance.html and links.html. Caused by .content styling. move the text alignment to target specific elements of .content as opposed to whole class.
 
 ### **Known Bugs**
+
+Form on index.html doesn't get the same level of padding as the rest of the content.
