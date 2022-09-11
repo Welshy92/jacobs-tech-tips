@@ -83,7 +83,7 @@ Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was us
 
 * Form on index.html doesn't get the same level of padding as the rest of the content. Added specific padding to their class + elements.
 
-* captions not aligning correctly. Changed .content > p to .content > p *.caption to stop them from inheriting the incorrect text alignment.
+* captions not aligning correctly. Put captions in seperate divs to rest of the content and moved the class definer to the respective divs.
 
 ### **Known Bugs**
 

@@ -226,7 +226,7 @@ a {
   padding-right: 5vw;
 }
 
-.content > p *.caption {
+.content > p {
   text-align: justify;
   padding-left: 7.5vw;
   padding-right: 7.5vw;
