@@ -10,7 +10,7 @@ body {
   font-family: 'Noto Sans', sans-serif;
   font-size: 16px;
   font-weight: 600;
-  padding-top: 45px;
+  padding-top: 80px;
   padding-bottom: 45px;
   padding-left: 20px;
   padding-right: 20px;
@@ -48,6 +48,19 @@ a > em {
   width: 100%;
 }
 
+/* Header */
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding-left: 10px;
+  line-height: 60px;
+  font-size: 0.85rem;
+  background: #211A1E;
+  width: 100vw;
+}
+
 /* Nav styling */
 
 nav {
@@ -81,7 +94,7 @@ a {
   padding: 5px 10px 5px 10px ;
 }
 
-/* MENU STYLES */
+/* Menu Styling */
 .menu-wrap {
   position: fixed;
   top: 0;
