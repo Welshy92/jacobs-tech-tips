@@ -71,10 +71,14 @@ Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was us
 
 * All images with the picture class tag fail to load on github pages (404 error for each image). Works fine in preview. Fixed by changing all file paths to relative.
 
-* Some links incorrectly used an absolute filepath with isn't allowed with Github. Changed to relative filepath.
+* Some links across the site incorrectly used an absolute filepath with isn't allowed with Github. Changed to relative filepath.
 
-* hero image not streching to edges of the viewport. Caused by some body padding and margins. Both now removed.
+* Hero image on index.html not streching to edges of the viewport. Caused by some body padding and margins. Both now removed.
+
+* Video embed on maintenance.html not resizing correctly. Placed it into it's own div and used padding-top of 56.25% to allow it to maintain it's 16:9 aspect ratio.
+
+* Hamburger menu not working on maintenance.html. Class tag spelling corrected to fix it.
+
+*h2 text too spread out on mobile views of maintenance.html and links.html. Caused by .content styling. move the text alignment to target specific elements of .content as opposed to whole class.
 
 ### **Known Bugs**
-
-* Hamburger menu not working on maintenance.html.
