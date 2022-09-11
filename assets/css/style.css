@@ -57,7 +57,7 @@ header {
   position: fixed;
   top: 0;
   left: 0;
-  padding-left: 10px;
+  padding-right: 60px;
   line-height: 60px;
   font-size: 0.80rem;
   background: #211A1E;
@@ -69,6 +69,8 @@ header {
 @media screen and (min-width: 900px) {
   header {
     text-align: left;
+    padding-left: 10px;
+    padding-right: 0;
   }
 }
 
