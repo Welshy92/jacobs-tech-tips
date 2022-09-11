@@ -243,6 +243,7 @@ a {
 
 #hero-image {
   position: relative;
+  z-index: -1;
   left: 0;
   padding: 0;
   height: 500px;
