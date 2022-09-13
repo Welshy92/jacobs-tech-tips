@@ -75,7 +75,7 @@ Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was us
 
 * Hero image on index.html not streching to edges of the viewport. Caused by some body padding and margins. Both now removed.
 
-* Video embed on maintenance.html not resizing correctly. Placed it into it's own div and used padding-top of 56.25% to allow it to maintain it's 16:9 aspect ratio.
+* Video embed on maintenance.html not resizing correctly. Placed it into it's own div and given its own padding.
 
 * Can't interact with YouTube player buttons at all on all screen sizes. Changed z-index from -1 to 1 and increased the z-index of header and footer to compensate for the overlap.
 
