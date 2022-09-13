@@ -77,6 +77,8 @@ Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was us
 
 * Video embed on maintenance.html not resizing correctly. Placed it into it's own div and used padding-top of 56.25% to allow it to maintain it's 16:9 aspect ratio.
 
+* Can't interact with YouTube player buttons at all on all screen sizes. Changed z-index from -1 to 1 and increased the z-index of header to compensate for the overlap.
+
 * Hamburger menu not working on maintenance.html. Class tag spelling corrected to fix it.
 
 * h2 text too spread out on mobile views of maintenance.html and links.html. Caused by .content styling. move the text alignment to target specific elements of .content as opposed to whole class.
