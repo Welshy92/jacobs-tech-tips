@@ -222,6 +222,13 @@ a {
 
 /* Page content Positioning */
 
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
 .content > h2, h3 {
   padding-left: 5vw;
   padding-right: 5vw;
@@ -264,11 +271,16 @@ a {
 /* Image styling */
 
 .picture {
-  z-index: 10;
-  max-height: 400px;
-  width: 100%;
+  z-index: 1;
+  width: 80%;
   object-fit: cover;
   border: 1px solid black;
+}
+
+.picture-frame {
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 @media screen and (min-width: 900px) {
@@ -317,7 +329,8 @@ a {
 .video-frame {
   position: absolute;
   z-index: 1;
-  padding-left: 20%;
+  padding-left: 6vw;
+  padding-right: 6vw;
   top: 0;
   bottom: 0;
   left: 0;
