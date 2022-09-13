@@ -396,6 +396,7 @@ a {
 footer {
   line-height: 25px;
   margin-top: 30px;
+  z-index: 2;
   background-color: #211A1E;
   position: fixed;
   bottom: 0;
