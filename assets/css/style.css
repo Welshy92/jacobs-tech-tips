@@ -270,6 +270,14 @@ a {
   border: 1px solid black;
 }
 
+@media screen and (min-width: 900px) {
+  .picture {
+    padding-left: 7.5vw;
+    padding-right: 7.5vw;
+    border: none;
+  }
+}
+
 .caption {
   font-size: 14px;
   text-align: center;
