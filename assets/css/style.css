@@ -304,22 +304,23 @@ a {
  }
 }
 
-/* Video Player Styling (Maintaining the 16:9 aspect ration responsively) */
+/* Video Player Styling */
 
 .video {
   position: relative;
-  overflow: hidden; 
-  width: 100%;
-  padding-top: 56.25%; /* 16:9 Aspect Ratio (9 by 16 = 0.5625) */
-  border: 1px solid black;
+  overflow: hidden;
+  width: 80%;
+  padding-right: 15vw;
+  padding-top:40%;
 }
 
 .video-frame {
   position: absolute;
   z-index: 1;
+  padding-left: 20%;
   top: 0;
-  left: 0;
   bottom: 0;
+  left: 0;
   right: 0;
   width: 100%;
   height: 100%;
