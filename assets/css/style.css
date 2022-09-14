@@ -256,12 +256,12 @@ a {
   }
 }
 
-/* Padding For Newsletter Signup */
+/* Styling page content */
 
 .content > div > p {
   text-align: justify;
-  padding-left: 7.5vw;
-  padding-right: 7.5vw;
+  padding-left: 0vw;
+  padding-right: 0vw;
 }
 
 .content > div > form {
@@ -354,8 +354,8 @@ a {
   background-size: cover;
 }
 
-#signup-image {
-  background-image: url(../images/light-bulb.png);
+#lightbulb {
+  display: flex;
   height: 0px;
   width: 0px;
   background-repeat: no-repeat;
@@ -363,7 +363,8 @@ a {
   margin: 0;
   visibility: hidden;
   position: relative;
-  top: -25px;
+  right: 0;
+  top: -100px;
 }
 
 #newsletter form {
@@ -381,7 +382,7 @@ a {
 }
 
 @media screen and (min-width: 768px) {
-  #signup-image {
+  #lightbulb {
     visibility: visible;
     height: 150px;
     width: 150px;
@@ -397,6 +398,13 @@ a {
   #newsletter form {
     display: inline-flex;
     flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+  }
+
+  .signup-form {
+    display: flex;
   }
 
 }
