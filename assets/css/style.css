@@ -364,10 +364,14 @@ a {
   visibility: hidden;
   position: relative;
   right: 0;
-  top: -100px;
 }
 
-#newsletter form {
+#form-title {
+  position: relative;
+  left: -30vw;
+}
+
+.newsletter form {
   display: flex;
   align-content: center;
   justify-content: center;
@@ -377,7 +381,7 @@ a {
   text-align: center;
 }
 
-#newsletter hr {
+.newsletter hr {
   visibility: hidden;
 }
 
@@ -405,6 +409,10 @@ a {
 
   .signup-form {
     display: flex;
+    align-content: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
   }
 
 }
