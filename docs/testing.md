@@ -47,6 +47,8 @@ Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was us
 
 ## **Manual Testing**
 
+A full spelling and grammar check of the content was complete by copying the code into Google Docs.
+
 ### **Testing User Story**
 
 ### **Full Testing**
