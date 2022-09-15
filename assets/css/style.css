@@ -420,14 +420,22 @@ padding: 0;
 }
 
 #submit {
-  padding-top: 5px;
+  height: 48px;
+}
+
+#email {
+  height: 48px;
+}
+
+#name {
+  height: 48px;
 }
 
 @media screen and (min-width: 768px) {
   #lightbulb {
     visibility: visible;
-    height: 150px;
-    width: 89px;
+    height: 235px;
+    width: 139px;
   }
 
   #newsletter {
