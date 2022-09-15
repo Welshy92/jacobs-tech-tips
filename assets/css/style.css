@@ -149,7 +149,7 @@ a {
   transform: rotate(135deg);
 }
 
-/* Turns Lines Into A Cross */
+/* Change lines to an X */
 .menu-wrap .toggler:checked + .hamburger > div:before,
 .menu-wrap .toggler:checked + .hamburger > div:after {
   top: 0;
