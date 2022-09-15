@@ -196,6 +196,7 @@ There are a few different sites that I used to learn the required skills to deve
 * [W3Schools](https://www.w3schools.com) - Used to quickly look up various tags to veryify I am applying them correctly.
 * [Traversy Media YouTube](https://www.youtube.com/watch?v=DZg6UfS5zYg&ab_channel=TraversyMedia) - Watched their 'Pure CSS Hanburger Menu & Overlay' video to learn how to make a hamburger menu.
 * [Stack Overflow](https://stackoverflow.com) - Used to check how to change an img src based on screensize in CSS.
+[Markdown Guide](https://www.markdownguide.org/basic-syntax/) - Used to help with learning markdown syntax.
 ### **Content**
 * [Font Awesome](https://fontawesome.com) - Icons used for footer icons + hamburger navigation icon.
 * [Code Institute](https://codeinstitute.net) - Form dump link used to show working form on index. 
