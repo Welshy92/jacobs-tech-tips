@@ -402,7 +402,7 @@ padding: 0;
   border: 1px black;
   border-style: solid;
   background-color: #211A1E;
-  color: #638f00;
+  color: #88c500;
 }
 
 .newsletter form {
@@ -481,7 +481,7 @@ footer {
 }
 
 .foot p {
-  color: #638f00;
+  color: #88c500;
 }
 
 @media screen and (min-width: 680px) {
