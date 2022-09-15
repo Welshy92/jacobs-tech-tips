@@ -217,3 +217,5 @@ There are a few different sites that I used to learn the required skills to deve
 [Kera Cudmore](https://github.com/kera-cudmore) - Provided a [README](https://github.com/kera-cudmore/readme-examples) example that I read through to make sure I had all required content.
 
 [Microsoft Support Site](https://support.microsoft.com) - Used to verify that keyboard shortcuts are used on multiple Windows operating systems.
+
+[Webfx](https://www.webfx.com/web-design/hex-to-rgb/) - Used to convert a hex colour to RGB for use on my hero image cover text box.
