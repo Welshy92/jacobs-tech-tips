@@ -212,6 +212,7 @@ There are a few different sites that I used to learn the required skills to deve
 * * [OneDrive](https://onedrive.live.com/) - by Microsoft
 * * [Dropbox](https://www.dropbox.com) - by Dropbox
 * * [Gmail](https://mail.google.com) - By Google
+
 ### **Acknowledgments**
 
 [Kera Cudmore](https://github.com/kera-cudmore) - Provided a [README](https://github.com/kera-cudmore/readme-examples) example that I read through to make sure I had all required content.
@@ -219,3 +220,9 @@ There are a few different sites that I used to learn the required skills to deve
 [Microsoft Support Site](https://support.microsoft.com) - Used to verify that keyboard shortcuts are used on multiple Windows operating systems.
 
 [Webfx](https://www.webfx.com/web-design/hex-to-rgb/) - Used to convert a hex colour to RGB for use on my hero image cover text box.
+
+[Dave Horrocks](https://www.linkedin.com/in/davejhorrocks/) - Some fantasic tips on specificity and accesiblity.
+
+[Simen Daehlin](https://www.linkedin.com/in/simendaehlin/) - Explaining the difference between relative and absolute filepaths and why we cant always use both.
+
+[Ed Bradley](https://www.linkedin.com/in/ed-bradley-4b841686/) - My code insitute August 2022 cohort tutor. Provided the invaluable tip of telling me to read up on flexbox and avoid using float.
