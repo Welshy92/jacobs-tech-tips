@@ -360,13 +360,11 @@ padding: 0;
 }
 
 #cover-text {
-  font-size: 125%;
   font-family: 'Inter', sans-serif;
   text-transform: uppercase;
   letter-spacing: 4px;
   width: 235px;
   height: 180px;
-  padding-top: 10px;
   padding-left: 10px;
   background-color: rgba(99, 143, 0, .7);
   position: absolute;
