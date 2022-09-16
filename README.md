@@ -36,8 +36,7 @@ This number has been ever increasing since the initial outbreak of COVID. Howeve
 
 * A list of keyboard shortcuts that will cut down time while performing some basic tasks.
 * Useful tips to help maintain your system. These include;
-    - Using Windows features such as Windows Defender, Windows Updates, Task manager, Task Scheduler and Defragging.
-    - Clearing clutter via File explorer, Web broswers or Add and Remove programs.
+    - Using Windows features such as Windows Updates (contains a video tutorial), Task manager and Startup tasks.
     - Backing up files using Physical media or cloud backup such as OneDrive
 * A list of useful programs or websites that can add a user to make their life with a computer a bit easier.
 
@@ -70,9 +69,11 @@ This number has been ever increasing since the initial outbreak of COVID. Howeve
 ### **Colour Scheme**
 
 I have chosen a colour scheme that is close to the 'classic' Black and green contrast of old computer screens but less of a harsh contrast.
-The colour palette was created using the [coolers](https://coolors.co) website.
+The colour palette was created using the [coolers](https://coolors.co) website. The main background was white.
 
-![My chosen colour scheme](/assets/images/colour-scheme.png)
+![My original chosen colour scheme](/assets/images/colour-scheme.png)
+
+However while in development, Lighthouse testing was showing that the way I was using the colours did not contrast well. So I adjusted the dark green to be a bit darker and the light green to be a bit brighter.
 
 ### **Typography**
 
@@ -86,25 +87,20 @@ The colour palette was created using the [coolers](https://coolors.co) website.
 * Hero images for index.html and 404.html, as well as the site wide favicon were taking from [Pixabay](https://pixabay.com). All images modified by myself. The [license](https://pixabay.com/service/license/) does allow modifications.
 
 
-### **wireframes**
+### **Wireframes**
 
-Wireframes created using Balsamiq for mobile and desktop.
+Wireframes created using Balsamiq. I originally created wireframes for both mobile and desktop versions but, after seeing how well the mobile layout transfered to desktops, I scrapped them in favour of using a similar layout to the mobile frames.
 
 #### Index Page Wireframes
-![Index Page Mobile Wireframe](/assets/wireframes/index-mobile.png)
-![Index Page Desktop Wireframe](/assets/wireframes/index-desktop.png)
+![Index Page Wireframe](/assets/wireframes/index-mobile.png)
 #### Keyboard Shortcuts Wireframes
-![Keyboard Shortcuts Mobile Wireframe](/assets/wireframes/keyboard-shortcuts-mobile.png)
-![Keyboard Shortcuts Desktop Wireframe](/assets/wireframes/keyboard-shortcuts-desktop.png)
+![Keyboard Shortcuts Wireframe](/assets/wireframes/keyboard-shortcuts-mobile.png)
 #### Maintaining Your System Wireframes
-![Maintaining Your System Mobile Wireframe](/assets/wireframes/system-maintenance-mobile.png)
-![Maintaining Your System Desktop Wireframe](/assets/wireframes/system-maintenance-desktop.png)
+![Maintaining Your System Wireframe](/assets/wireframes/system-maintenance-mobile.png)
 #### Useful Sites and Software Wireframes
-![Useful Sites and Software Mobile Wireframe](/assets/wireframes/useful-sites-software-mobile.png)
-![Useful Sites and Software Desktop Wireframe](/assets/wireframes/useful-sites-software-desktop.png)
+![Useful Sites and Software Wireframe](/assets/wireframes/useful-sites-software-mobile.png)
 #### 404 Error Wireframes
-![404 error Mobile wireframe](/assets/wireframes/404-mobile.png)
-![404 error Desktop wireframe](/assets/wireframes/404-desktop.png)
+![404 error Mobile](/assets/wireframes/404-mobile.png)
 
 ### **Features**
 
