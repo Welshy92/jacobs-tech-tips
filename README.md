@@ -106,17 +106,19 @@ Wireframes created using Balsamiq. I originally created wireframes for both mobi
 
 The website is made up of 5 pages. The index page, Keyboard Shortcuts, Maintaining Your System, Useful Sites and Software and 404 Error pages. All pages, with the exception of the 404 error page, are accessable from a responsive navigation menu at the top right of the page. To the left of that is the site logo, which will be placed under the navigation menu on smaller screens with a media query. All pages will also contain a footer that displays copyright details, contact information, a link to the sites youtube channel and a 'back to top' link.
 
-The index page is divided into sections. Below the Navigation is a large Hero image taking up the width of the screen. Below that is an introduction to what the site and it's purpose is. Below that is a form that offers a signup to a newsletter.
+The index page is divided into sections. Below the Navigation is a large Hero image taking up the width of the screen. Below that is an introduction to what the site and it's purpose is with an audio player at the top of it for a user to alternitavly listen to the text of the page. Below that is a form that offers a signup to a newsletter.
 
 The Keyboard Shortcuts page contains lists of shortcuts that are divided into different sections, word processing, system navigation and miscellaneous. Each shortcut will show and image of the keys with an explaination of what is achieved by using them, using a GIF to help showcase that if necessary.
 
-The Maintaining your system page if split into a few categories. Keeping your machine fast, decluttering your machine and backing up files. Each section will be split up intoi sub-categories that will walk a user through, step by step, some basic maintainence tasks for their machine.
+The Maintaining your system page if split into a few categories. Windows updates, Task manager, Startup tasks and backing up files. Each section will be split up into sub-categories that will walk a user through, step by step, some basic maintainence tasks for their machine.
 
 The Useful Sites and Software page contains a list of websites and software that could potentially aid a user in simplifying some tasks or allowing their system to run better, as well as some common popular pieces that has a variety of sources of information that they can use to help them further. 
 
 The 404 error page will pop up if there is a broken link clicked within the site. It will simply contain a 404 error message and a link back to the homepage.
 
 ### **Future Implementations**
+
+The main thing to consider adding would be audio for all pages, not just the index page. As well as completing the implementation of the newsletter so that it actually works. (It uses a placholder dump at the moment.)
 
 ### **Accessibility**
 
@@ -134,15 +136,16 @@ HTML, CSS
 
 ### **Frameworks, Libraries & Programs Used**
 
-* Balsamiq - Used to create wireframes.
-* Git - For version control.
-* Github - To save and store all the files of the site.
-* Gitpod - To write all the HTML & CSS. Also used to write the README.
+* [Balsamiq](https://balsamiq.com) - Used to create wireframes.
+* [Git](https://git-scm.com) - For version control.
+* [Github](https://github.com) - To save and store all the files of the site.
+* [Gitpod](https://www.gitpod.io) - To write all the HTML & CSS. Also used to write the README.
 * [coolers](https://coolors.co) - To create a colour scheme for use across the site.
-* Google Fonts - To import the fonts used on the site.
+* [Google Fonts](https://fonts.google.com) - To import the fonts used on the site.
 * [Font Awesome](https://fontawesome.com) - For the iconography of the site.
-* Opera Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+* [OperaGX](https://www.opera.com/gx) - Dev Tools to troubleshoot and test features, solve issues with responsiveness and styling.
 * [Am I Responsive?](https://ui.dev/amiresponsive) - To show the website image on a variety of devices.
+* [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) - Chrome DevTool extension that I use on my OperaGX browser.
 ***
 ***
 ## **Deployment & Local Development**
