@@ -10,15 +10,10 @@ Image from [Am I Responsive?](https://ui.dev/amiresponsive)
 ## **CONTENTS**
 
 * [User Experience (UX)](#user-experience-ux)
- 
 * [Design](#design)
- 
 * [Technologies Used](#technologies-used)
- 
 * [Deployment & Local Development](#deployment)
- 
 * [Testing](#testing) - [External document here](/docs/testing.md)
- 
 * [Credits](#credits)
  
 ***
@@ -140,6 +135,8 @@ HTML, CSS
 * [OperaGX](https://www.opera.com/gx) - Dev Tools to troubleshoot and test features, solve issues with responsiveness and styling.
 * [Am I Responsive?](https://ui.dev/amiresponsive) - To show the website image on a variety of devices.
 * [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) - Chrome DevTool extension that I use on my OperaGX browser.
+* [Audacity](https://www.audacityteam.org) - A voice recording software. Used for the index.html audio clip.
+* [Open Broadcasting Software (OBS)](https://obsproject.com) - A video recording/streaming software. Used to create the video tutorial.
 ***
 ## **Deployment & Local Development**
  
@@ -195,13 +192,15 @@ There are a few different sites that I used to learn the required skills to deve
 * Favicon image modified by myself. Original image by raphaelsilva on [Pixabay](https://pixabay.com/users/raphaelsilva-4702998/)
 * 404 image modified by myself. Original image by turgut_arslan0 on [Pixabay](https://pixabay.com/users/turgut_arslan0-660197/)
 * Icons for links.html were taken from the respective companies websites favicons.
-* * [Opera GX](https://www.opera.com/gx) - by Opera Limited
-* * [WinRar](https://www.win-rar.com/) - by Eugene Roshal
-* * [Team Viewer](https://www.teamviewer.com) - by  TeamViewer AG
-* * [Advanced System Care](https://www.iobit.com/en/advancedsystemcarefree.php) - by IOBit. *Icon taken from software installation directory*
-* * [OneDrive](https://onedrive.live.com/) - by Microsoft
-* * [Dropbox](https://www.dropbox.com) - by Dropbox
-* * [Gmail](https://mail.google.com) - By Google
+  * [Opera GX](https://www.opera.com/gx) - by Opera Limited
+  * [WinRar](https://www.win-rar.com/) - by Eugene Roshal
+  * [Team Viewer](https://www.teamviewer.com) - by  TeamViewer AG
+  * [Advanced System Care](https://www.iobit.com/en/advancedsystemcarefree.php) - by IOBit. *Icon taken from software installation directory*
+  * [OneDrive](https://onedrive.live.com/) - by Microsoft
+  * [Dropbox](https://www.dropbox.com) - by Dropbox
+  * [Gmail](https://mail.google.com) - By Google
+* Windows Update tutorial created by myself and uploaded to a brand new [YouTube channel](https://www.youtube.com/channel/UCbXMDllJ-kBipa4N4l31GFg) to match the brand of the website. Made using [Open Broadcasting Software(OBS)](https://obsproject.com).
+* Audio able to be played on the index page recorded by myself using [Audacity](https://www.audacityteam.org).
  
 ### **Acknowledgments**
  
