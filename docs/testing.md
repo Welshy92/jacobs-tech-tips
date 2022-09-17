@@ -63,7 +63,7 @@ A full spelling and grammar check of the content was complete by copying the cod
 
 Full testing was performed on the following devices:
 
-* My self built PC. Windows 10 64-bit Home edition.
+* My self built PC. Windows 10 64-bit Home edition. Tested on 24" 1080 horizontal monitor and 27" vertical 4K monitor.
     * OperaGX
     * Google Chrome
     * Microsoft Edge
