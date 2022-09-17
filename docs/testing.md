@@ -42,12 +42,22 @@ Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was us
 ![404 error](/assets/testing-images/404-lighthouse.png)
 
 High scores across the board with the exception of performence on some pages. This was caused mainly by the large banners for index.html and 404.html. The maintenance.html page scored low due to the embedded YouTube video on the page. A fix for this would likely only be achievable when I learn more about javascript.
-
+***
 ## **Manual Testing**
 
 A full spelling and grammar check of the content was complete by copying the code into Google Docs.
 
 ### **Testing User Story**
+
+#### **First time visitors**
+* I want to keep my machine performing well for a longer period of time -> Users can navigate to the 'System Maintenance' page to learn tips or even watch a video tutorial to help achieve this goal.
+* I want to easily navigate the website to find the information I require -> A hamburger menu was developed and placed in the top right corner of the page that is always visible regardless of how far down the page a user is. The menu contains clear options for navigation.
+* I want my time using a computer to be a bit smoother -> Users can navigate to the 'Keyboard Shortcuts' or 'Useful Sites & Software' pages which will provide them with some tips to allow them to work faster and more efficiently.
+
+#### **Returning visitors**
+* I want to remind myself of a specific keyboard shortcut quickly. -> Users can navigate to the 'Keyboard Shorcuts' page and goto the appropraite section to find the shortcut.
+* I want to remind myself of the steps required to perform certain maintenance operations. -> Users can navigate to the 'System Maintenance' page and goto the appropraite section to find the steps required.
+* I want to revisit one of the useful websites. -> Users can navigate to the 'Useful Sites & Software' page and find the link they were looking for. Icons for each website is shown to help a user spot the one they want quicker. 
 
 ### **Full Testing**
 
