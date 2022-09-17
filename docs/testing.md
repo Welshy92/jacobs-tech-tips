@@ -21,29 +21,25 @@
 
 Testing was a regular occurance during the development of this project.
 
-
+I used the OperaGX tools frequently to try and see problems and mess around with tags before actually change the code. It was especially useful when implementing my 'Flex' displays or adjusting padding.
 
 ## **Automated Testing**
 The HTML of every page was validated by [W3C Validator](https://validator.w3.org)
-* [index]()
-* [keyboard shortcuts]()
-* [maintaining your system]()
-* [useful sites and software]()
-* [404 error]()
+![index.html validation](/assets/testing-images/index-html-valid.png)
+![maintenance.html validation](/assets/testing-images/maintenance-html-valid.png)
+![shortcuts.html validation](/assets/testing-images/shortcuts-html-valid.png)
+![links.html validation](/assets/testing-images/links-html-valid.png)
+![404.html validation](/assets/testing-images/404-html-valid.png)
 
-The CSS of every page was validated by [W3C Validator](https://jigsaw.w3.org/css-validator/)
-* [index]()
-* [keyboard shortcuts]()
-* [maintaining your system]()
-* [useful sites and software]()
-* [404 error]()
+The CSS was also validated by [W3C Validator](https://jigsaw.w3.org/css-validator/)
+![CSS validation](/assets/testing-images/css-validation.png)
 
 Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was used to test the performance, acessibility, best practices and SEO of the website.
-* [index]()
-* [keyboard shortcuts]()
-* [maintaining your system]()
-* [useful sites and software]()
-* [404 error]()
+![index]()
+![keyboard shortcuts]()
+![maintaining your system]()
+![useful sites and software]()
+![404 error]()
 
 ## **Manual Testing**
 
@@ -87,7 +83,9 @@ A full spelling and grammar check of the content was complete by copying the cod
 
 * Form on index.html doesn't get the same level of padding as the rest of the content. Added specific padding to their class + elements.
 
-* captions not aligning correctly. Put captions in seperate divs to rest of the content and moved the class definer to the respective divs.
+* Captions not aligning correctly. Put captions in seperate divs to rest of the content and moved the class definer to the respective divs.
+
+* It was too easy to 'fat finger' the inputs on the newsletter form. Input heights increased to stop this from happening.
 
 ### **Known Bugs**
 
