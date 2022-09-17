@@ -35,11 +35,13 @@ The CSS was also validated by [W3C Validator](https://jigsaw.w3.org/css-validato
 ![CSS validation](/assets/testing-images/css-validation.png)
 
 Lighthouse tool powered by [PageSpeed Insights](https://web.dev/measure/) was used to test the performance, acessibility, best practices and SEO of the website.
-![index]()
-![keyboard shortcuts]()
-![maintaining your system]()
-![useful sites and software]()
-![404 error]()
+![index](/assets/testing-images/index-lighthouse.png)
+![keyboard shortcuts](/assets/testing-images/shortcuts-lighthouse.png)
+![maintaining your system](/assets/testing-images/maintenance-lighthouse.png)
+![useful sites and software](/assets/testing-images/links-lighthouse.png)
+![404 error](/assets/testing-images/404-lighthouse.png)
+
+High scores across the board with the exception of performence on some pages. This was caused mainly by the large banners for index.html and 404.html. The maintenance.html page scored low due to the embedded YouTube video on the page. A fix for this would likely only be achievable when I learn more about javascript.
 
 ## **Manual Testing**
 
