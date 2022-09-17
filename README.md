@@ -2,13 +2,12 @@
  
 The Windows Simplified website is designed to be a responsive website allowing for viewing on various types of devices. It showcases some very simple tips that can help a user look after their computer and slightly increase their efficiency while doing some basic tasks.
  
-![Image from amiresponsive]()
+![Image from amiresponsive](/assets/testing-images/amiresponsive.png)
  
 [Windows Simplified live on GitHub Pages](https://welshy92.github.io/windows-simplified/)
  
- 
 ## **CONTENTS**
-***
+
 * [User Experience (UX)](#user-experience-ux)
  
 * [Design](#design)
@@ -17,14 +16,12 @@ The Windows Simplified website is designed to be a responsive website allowing f
  
 * [Deployment & Local Development](#deployment)
  
-* [Testing](#testing)
+* [Testing](#testing) - [External document here](/docs/testing.md)
  
 * [Credits](#credits)
  
 ***
-***
 ## **User Experience (UX)**
-***
  
 ### Initial Discussion
  
@@ -62,9 +59,7 @@ This number has been ever increasing since the initial outbreak of COVID. Howeve
 * I want to visit one of the useful websites.
  
 ***
-***
 ## **Design**
-***
  
 ### **Colour Scheme**
  
@@ -127,9 +122,7 @@ While coding this site I have been mindful to ensure that the website is accessi
   * Using descriptive alt attributes on images all around the site.
   * Making sure that there is sufficient colour contrast throughout the entire site.
 ***
-***
 ## **Technologies Used**
-***
  
 ### **Languages used**
 HTML, CSS
@@ -147,9 +140,7 @@ HTML, CSS
 * [Am I Responsive?](https://ui.dev/amiresponsive) - To show the website image on a variety of devices.
 * [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) - Chrome DevTool extension that I use on my OperaGX browser.
 ***
-***
 ## **Deployment & Local Development**
-***
  
 ### **Deployment**
 The site is deployed using GitHub Pages. Visit the deployed site [here.](https://welshy92.github.io/windows-simplified/)
@@ -178,10 +169,8 @@ To do this I:
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 ***
-***
 ## **Testing**
-***
-Click [here]() to view details on testing and bugs
+Click [here](/docs/testing.md) to view details on testing and bugs
 ***
 ## **Credits**
 ***

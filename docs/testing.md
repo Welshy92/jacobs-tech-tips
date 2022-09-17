@@ -1,23 +1,22 @@
 # **Windows Simplified - Testing**
  
-![Image from amiresponsive]()
+![Image from amiresponsive](/assets/testing-images/amiresponsive.png)
  
 [Windows Simplified live on GitHub Pages](https://welshy92.github.io/windows-simplified/)
  
 ## **Contents**
- 
+
+* [Back to README](../README.md)
 * [Automated Testing](#automated-testing)
-* * W3C Validator (HTML)
-* * W3C Validator (CSS)
-* * Lighthouse Tool
- 
+    * W3C Validator (HTML)
+    * W3C Validator (CSS)
+    * Lighthouse Tool
 * [Manual Testing](#manual-testing)
-* * Testing User Story
-* * Full Testing
- 
+    * Testing User Story
+    * Full Testing
 * [Bugs](#bugs)
-* * Solved Bugs
-* * Known Bugs
+    * Solved Bugs
+    * Known Bugs
  
 Testing was a regular occurrence during the development of this project.
  
