@@ -61,6 +61,65 @@ A full spelling and grammar check of the content was complete by copying the cod
 
 ### **Full Testing**
 
+Full testing was performed on the following devices:
+
+* My self built PC. Windows 10 64-bit Home edition.
+    * OperaGX
+    * Google Chrome
+    * Microsoft Edge
+    * Mozilla Firefox
+
+* My Lenovo Ideapad 3i 14" laptop. Windows 11 64-bit Home edition.
+    * OperaGX
+    * Google Chrome
+
+* My Sony Xperia 1 II. Android 12.
+    * Google Chrome
+    * OperaGX
+
+Navigation testing (all pages)
+* Title goes back to home page when clicked - Passed
+* Open hamburger menu - Passed
+* Close hamburger menu - Passed
+* All links lead to correct page - Passed
+* Nav bar sticks to the top of the page - Passed
+
+Footer testing (all pages)
+* Contact email correctly opens email application - Passed
+* YouTube link leads to correct place + opens in seperate tab - Passed
+* Back to top takes you back to top of the page - Passed
+* Footer sticks to the bottom of the page - Passed
+
+index.html specific testing
+* Hero image and cover text scales and positions correctly with screen size - Passed
+* All content padding the nav and footer scales with screen size - Passed
+* Lightbulb icon is only visible on larger screen sizes - Passed
+* Audio player plays correct audio and has controls - Passed
+* Newsletter form requires a name and email to be submitted and verification of submission is shown - Passed
+
+shortcuts.html specific testing
+* All padding between nav and footer scales with screen size - Passed
+* All images reduce in size on smaller screens - Passed
+* The security menu image switches on smaller screen sizes for a more visible image - Passed
+* All images captions are centred underneath their respective images - Passed
+
+maintenance.html specific testing
+* All padding between nav and footer scales with screen size - Passed
+* All images reduce in size on smaller screens - Passed
+* All images captions are centred underneath their respective images - Passed
+* YouTube video does not autoplay and is completely functional regardless of screen size. It also resizes responsively - Passed
+* No broken links - Passed
+
+links.html specific testing
+* All padding between nav and footer scales with screen size - Passed
+* No broken links - Passed
+* All links open in a new tab - Passed
+
+404.html specific testing
+* All padding between nav and footer scales with screen size - Passed
+* Banner image reduces in size on smaller screens - Passed
+* Clicking on the banner image takes you back to index.html - Passed
+
 ## **Bugs**
 
 ### **Solved Bugs**
