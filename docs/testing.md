@@ -1,6 +1,7 @@
 # **Windows Simplified - Testing**
  
 ![Image from amiresponsive](/assets/testing-images/amiresponsive.png)
+Image from [Am I Responsive?](https://ui.dev/amiresponsive)
  
 [Windows Simplified live on GitHub Pages](https://welshy92.github.io/windows-simplified/)
  

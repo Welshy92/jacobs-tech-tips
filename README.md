@@ -3,6 +3,7 @@
 The Windows Simplified website is designed to be a responsive website allowing for viewing on various types of devices. It showcases some very simple tips that can help a user look after their computer and slightly increase their efficiency while doing some basic tasks.
  
 ![Image from amiresponsive](/assets/testing-images/amiresponsive.png)
+Image from [Am I Responsive?](https://ui.dev/amiresponsive)
  
 [Windows Simplified live on GitHub Pages](https://welshy92.github.io/windows-simplified/)
  
