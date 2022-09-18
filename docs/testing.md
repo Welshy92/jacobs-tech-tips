@@ -19,7 +19,7 @@ Image from [Am I Responsive?](https://ui.dev/amiresponsive)
     * Solved Bugs
     * Known Bugs
  
-Testing was a regular occurrence during the development of this project.
+Testing was a regular occurrence during the development of this project. My mentor [Jubril Akolade](https://www.linkedin.com/in/jubrillionaire/) provided some invaluable feedback during my sessions with him. Advised me on things such as content alignment, padding various areas of the site and adding a seperate nav bar styling for desktop size screens. Also showed me areas where the contrast seemed poor and general readability could be improved.
  
 I used the OperaGX tools frequently to try and see problems and mess around with tags before actually changing the code. It was especially useful when implementing my 'Flex' displays or adjusting padding.
  

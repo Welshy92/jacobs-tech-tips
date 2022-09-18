@@ -217,4 +217,6 @@ There are a few different sites that I used to learn the required skills to deve
  
 [Simen Daehlin](https://www.linkedin.com/in/simendaehlin/) - Explaining the difference between relative and absolute file paths and why we can't always use both.
  
-[Ed Bradley](https://www.linkedin.com/in/ed-bradley-4b841686/) - My code institute August 2022 cohort tutor. Provided the invaluable tip of telling me to read up on flexbox and avoid using float.
+[Ed Bradley](https://www.linkedin.com/in/ed-bradley-4b841686/) - My Code Institute August 2022 cohort tutor. Provided the invaluable tip of telling me to read up on flexbox and avoid using float.
+
+[Jubril Akolade](https://www.linkedin.com/in/jubrillionaire/) - My Code Institute course mentor that provided invaluable tips and feedback about many things.
