@@ -186,6 +186,9 @@ There are a few different sites that I used to learn the required skills to deve
 ### **Content**
 * [Font Awesome](https://fontawesome.com) - Icons used for footer icons + hamburger navigation icon.
 * [Code Institute](https://codeinstitute.net) - Form dump link used to show working form on index.
+
+### **Code Used**
+* Hamburger menu icon animation CSS taken from a [Traversy Media YouTube video](https://www.youtube.com/watch?v=DZg6UfS5zYg&ab_channel=TraversyMedia). Noted within the actual CSS itself.
  
 ### **Media**
 * Hero image by [Sathesh D](https://www.pexels.com/@sathez994/) on Pexels image site, used on index.

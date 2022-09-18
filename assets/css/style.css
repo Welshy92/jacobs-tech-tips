@@ -152,24 +152,24 @@ a {
     top: 10px;
   }
 
-/* Toggler Animation */
+/* Toggler Animation (The following CSS taken from Traversy Media YouTube video. See credits) */
   .menu-wrap .toggler:checked + .hamburger > div {
     transform: rotate(135deg);
   }
 
-/* Change lines to an X */
+/* Change lines to an X (The following CSS taken from Traversy Media YouTube video. See credits) */
   .menu-wrap .toggler:checked + .hamburger > div:before,
   .menu-wrap .toggler:checked + .hamburger > div:after {
     top: 0;
     transform: rotate(90deg);
   }
 
-/* Rotate On Hover When Checked */
+/* Rotate On Hover When Checked (The following CSS taken from Traversy Media YouTube video. See credits) */
   .menu-wrap .toggler:checked:hover + .hamburger > div {
     transform: rotate(225deg);
   }
 
-/* Show Menu */
+/* Show Menu (The following CSS taken from Traversy Media YouTube video. See credits) */
   .menu-wrap .toggler:checked ~ .menu {
     visibility: visible;
   }
@@ -183,6 +183,8 @@ a {
     opacity: 1;
     transition:  opacity 0.4s ease 0.4s;
   }
+
+/* Show Menu (Own code) */
 
   .menu-wrap .menu {
     position: fixed;
