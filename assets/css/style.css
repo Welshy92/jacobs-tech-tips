@@ -284,7 +284,7 @@ a {
 
 .picture {
   z-index: 1;
-  width: 80%;
+  width: 100%;
   object-fit: cover;
   border: 1px solid black;
 }
@@ -303,7 +303,7 @@ a {
   }
 }
 
-.caption {
+figcaption > p {
   font-size: 14px;
   text-align: center;
 }
