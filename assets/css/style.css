@@ -250,6 +250,14 @@ a {
   line-height: 60px;
 }
 
+.toggler {
+  visibility: collapse;
+}
+
+.menu-wrap {
+  height: 0;
+}
+
 .desktop-menu ul {
   display: flex;
 }
