@@ -246,12 +246,16 @@ a {
   text-align: justify;
   padding-left: 7.5vw;
   padding-right: 7.5vw;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
 }
 
 .content > ul {
   padding-top: 5px;
   padding-left: 7.5vw;
   padding-right: 7.5vw;
+  padding-bottom: 20px;
   text-align: justify;
 }
 
