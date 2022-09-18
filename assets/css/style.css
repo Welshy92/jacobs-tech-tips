@@ -81,6 +81,11 @@ a {
   color: #80DED9;
 }
 
+.page-title {
+  font-size: 110%;
+  text-decoration: solid underline #211A1E;
+  padding-bottom: 10px;
+}
 
 /* Menu Styling */
 .menu-wrap {
@@ -333,15 +338,14 @@ a {
   justify-content: center;
   background-color: #211A1E;
   width: 100%;
-  padding-top: 5px;
-  padding-bottom: 2px;
-  padding-left: 2px;
-  padding-right: 2px;
+  padding-top: 15px;
+  padding-bottom: 10px;
 }
 
 .voiceover p {
   font-size: 80%;
   color: #9BC53D;
+  padding-top: 10px;
 }
 
 .voiceover audio {
