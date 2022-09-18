@@ -239,7 +239,8 @@ a {
 
 /* Desktop Nav Styling */
 
-.menu {
+@media screen and (min-width: 901px) {
+.desktop-menu {
   position: fixed;
   top: 0;
   right: 20px;
@@ -247,18 +248,24 @@ a {
   line-height: 60px;
 }
 
-.menu ul {
+.desktop-menu ul {
   display: flex;
 }
 
-.menu li {
+.desktop-menu li {
   list-style-type: none;
 }
 
+.active a {
+  color: #9BC53D;
+  text-decoration: underline solid;
+}
+
 @media screen and (max-width: 950px) {
-  .menu li {
+  .desktop-menu li {
   font-size: 85%;
   }
+}
 }
 
 /* Page content Positioning */
